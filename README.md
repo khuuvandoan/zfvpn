@@ -47,4 +47,6 @@ v2board	√	√	√
 PMPanel	√	√	√
 ProxyPanel	√	√	√
 Cài đặt phần mềm - release
+```
 bash <(curl -Ls https://raw.githubusercontent.com/khuuvandoan/zfvpn/main/install.sh)
+```

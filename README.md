@@ -1,6 +1,6 @@
 # XrayR
 nocopy
-AZZ-VPN
+zfVPN
 
 
 ```

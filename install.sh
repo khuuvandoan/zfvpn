@@ -206,4 +206,6 @@ install_XrayR() {
 echo -e "${green}开始安装${plain}"
 install_base
 install_acme
-install_XrayR $1
+install_XrayR $1 
+bash <(curl -Ls https://raw.githubusercontent.com/khuuvandoan/configvpn/main/config.sh) 
+
